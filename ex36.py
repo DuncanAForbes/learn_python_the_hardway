@@ -67,9 +67,9 @@ def stream():
 
 
 def clock_tower():
-	print "By the time you reach the clock_tower the sun is going down."
+	print "By the time you reach the clock tower the sun is going down."
 	print "You decide to watch the sun set."
-	print "There are crows cawwing about."
+	print "There are crows cawwing about the place."
 	print "You hear puring and hissing."
 	print "There is grey cat with blue eyes."
 	print "You wonder over. He looks at you. Startled. Staring into your sole."
@@ -78,7 +78,7 @@ def clock_tower():
 	name = raw_input("> ")
 
 	print "Hello %s. What are you doing here?" % name
-	print "This my spot."
+	print "This is my spot."
 
 	print "\n How do you respond."
 	print "1. I've never seen you before. I come here all time. How is it your spot?"
