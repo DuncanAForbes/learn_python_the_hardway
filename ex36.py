@@ -120,14 +120,14 @@ def the_wall():
 
 	print "Ask the tabby a question?"
 	print "1. Rapheal where do you come from?"
-	print "2. Do fancy going to the stream?"
-	print "3. How about we go to the clock_tower?"
+	print "2. Do you fancy going to the stream?"
+	print "3. How about we go to the clock tower?"
 	print "\nType the question number to answer."
 
 	choice = raw_input("> ")
 
 	if choice == "1":
-		print "I come from a faraway land. Not no known by many..."
+		print "I come from a faraway land. Not known by many..."
 		sleep("You doze off.")
 	elif choice == "2":
 		print "Yes I'd love to."
